@@ -141,22 +141,3 @@ Run the test again:
 ```
 
 And it passes!
-
-## Source
-
-### Created by
-
-- @masters3d
-
-### Contributed to by
-
-- @DFXLuna
-- @iHiD
-- @kytrinyx
-- @lukaszklis
-- @porkostomus
-- @SleeplessByte
-
-### Based on
-
-This is an exercise to introduce users to using Exercism - http://en.wikipedia.org/wiki/%22Hello,_world!%22_program
